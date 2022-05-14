@@ -2,3 +2,11 @@
 node_modules
 target
 build
+
+.yarn/*
+
+.DS_Store
+
+.vim
+
+.next
