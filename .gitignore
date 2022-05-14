@@ -1,5 +1,5 @@
 .env
-node_modules
+
 target
 build
 
@@ -10,3 +10,4 @@ build
 .vim
 
 .next
+/node_modules
