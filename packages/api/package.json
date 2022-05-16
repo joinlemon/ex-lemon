@@ -20,7 +20,6 @@
     "@types/sharp": "^0.28.3",
     "@types/uuid": "^8.3.0",
     "concurrently": "^6.2.0",
-  
     "sqlite3": "^5.0.2",
     "ts-node": "^10.0.0",
     "ts-node-dev": "^1.1.8",
@@ -53,7 +52,7 @@
     "sharp": "^0.28.3",
     "tslib": "^2.3.0",
     "type-graphql": "^1.1.1",
-    "typeorm": "^0.2.34",
+    "typeorm": "^0.3.6",
     "uuid": "^8.3.2"
   }
 }
