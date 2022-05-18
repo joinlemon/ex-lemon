@@ -1,7 +1,4 @@
-resource "github_membership" "anddddrew" {
-    username = "anddddrew"
-    role = "admin"
+resource "github_membership" "PineappleRind" {
+    username = "PineappleRind"
+    role = "member"
 }
-
-
-
