@@ -1,5 +1,4 @@
-
-version: '3'
+version: "3"
 
 services:
   postgres:
@@ -8,4 +7,4 @@ services:
   redis:
     image: redis:7-alpine
     depends_on:
-      - postgres      
+      - postgres
