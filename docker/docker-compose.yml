@@ -1,0 +1,11 @@
+
+version: '3'
+
+services:
+  postgres:
+    image: postgres:13
+
+  redis:
+    image: redis:7-alpine
+    depends_on:
+      - postgres      
