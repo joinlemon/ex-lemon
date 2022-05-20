@@ -8,3 +8,12 @@ services:
     image: redis:7-alpine
     depends_on:
       - postgres
+
+  mailer:
+    image: .
+
+  api:
+    image: .
+  
+  web: 
+    image: .
